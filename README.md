@@ -24,9 +24,9 @@ expansion and compression of an EM wave traveling in
 a space vacuum will experience a loss of some amount 
 of energy into the vacuum. The electromagnetic fabric of space.
 
-In this process of decaying, a wavelength will pass through many
+In this process of frequency decaying, a wavelength will pass through many
 zones  and bands. Ergo, Lyman-Alpha will eventually become Balmer-Alpha
-and so on.
+and so on, as the wave length increases.
 
 The essential equation of EM wave expansion is  lambda(n+1) = lambda(n)+gamma,
 so that each cycle adds a small amount of wavelength, corresponding to the energy 
