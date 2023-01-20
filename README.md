@@ -43,3 +43,31 @@ $\alpha  = fine-structure-constant = 0.072973525663,$
 $\gamma  = 9.385520393125562e^-39$ m
 
 A very simple idea, but with enormous consequences.
+
+One way to test this idea is to note that all derived Z data is
+assumed to have expanded at the same rate.
+But if this gamma idea is true then one might expect noticable 
+inconsistancies in expansion rates at lower frequencies, as in
+long wave infrared. Why? because most data collected is based on
+much higher frequencies ,Lyman, Balmer, that decay much faster than
+lower frequencies, so if a super low frequency were selected as the
+basis for some measurement, then it will be off, from the expectation.
+
+Implicit as a function of time.
+$\lambda_(t+1) = \lambda_t+(\gamma C / \lambda_t  )$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
