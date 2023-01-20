@@ -42,8 +42,6 @@ $k      = Planck Len = 1.616229e^-35$  meters,
 $\alpha  = fine-structure-constant = 0.072973525663,$
 $\gamma  = 9.385520393125562e^-39$ m
 
-A very simple idea, but with enormous consequences.
-
 One way to test this idea is to note that all derived Z data is
 assumed to have expanded at the same rate.
 But if this gamma idea is true then one might expect noticable 
