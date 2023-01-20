@@ -28,7 +28,7 @@ In this process of decaying, a wavelength will pass through many
 zones  and bands. Ergo, Lyman-Alpha will eventually become Balmer-Alpha
 and so on.
 
-The essential equation of EM wave motion is  lambda(n+1) = lambda(n)+gamma,
+The essential equation of EM wave expansion is  lambda(n+1) = lambda(n)+gamma,
 so that each cycle adds a small amount of wavelength, corresponding to the energy 
 given up to the (so-called) vacuum or  Fabric of Space.
 
