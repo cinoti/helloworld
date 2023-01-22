@@ -32,15 +32,12 @@ The essential equation of EM wave expansion is  lambda(n+1) = lambda(n)+gamma,
 so that each cycle adds a small amount of wavelength, corresponding to the energy 
 given up to the (so-called) vacuum or  Fabric of Space.
 
-$\lambda_(n+1) = \lambda_n+\gamma$
-
-gamma $\gamma$ is the wavelength expansion constant, expressed as length.
-
-$\gamma = k * \alpha / 4 * \pi$
+$\lambda_(n+1) = \lambda_n+\gamma$ where $\gamma = k * \alpha / 4 * \pi$ and $\gamma  = 9.385520393125562e^-39$ m
 
 $k      = Planck Len = 1.616229e^-35$  meters,
-$\alpha  = fine-structure-constant = 0.072973525663,$
-$\gamma  = 9.385520393125562e^-39$ m
+$\alpha$  = fine-structure-constant = 0.072973525663
+
+gamma $\gamma$ is the wavelength expansion constant, expressed as length.
 
 One way to test this idea is to note that all derived Z data is
 assumed to have expanded at the same rate.
