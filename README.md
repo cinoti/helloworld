@@ -49,7 +49,8 @@ inconsistancies in expansion rates at lower frequencies, as in
 long wave infrared. Why? because most data collected is based on
 much higher frequencies ,Lyman, Balmer, that decay much faster than
 lower frequencies, so if a super low frequency were selected as the
-basis for some measurement, then it will be off, from the expectation.
+basis for some measurement, then it will be off, from the expectation
+derived from the Hubble Constant.
 
 As a function of time.
 $\lambda_(t+1) = \lambda_t+(\gamma C / \lambda_t  )$
