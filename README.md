@@ -34,6 +34,8 @@ given up to the (so-called) vacuum or  Fabric of Space.
 
 $\lambda_(n+1) = \lambda_n+\gamma$ where $\gamma = k * \alpha / 4 * \pi$ and $\gamma  = 9.385520393125562e^-39$ m
 
+As a function of time. $\lambda_(t+1) = \lambda_t+(\gamma C / \lambda_t  )$
+
 $k      = Planck Len = 1.616229e^-35$  meters,
 $\alpha$  = fine-structure-constant = 0.072973525663
 
@@ -49,8 +51,7 @@ lower frequencies, so if a super low frequency were selected as the
 basis for some measurement, then it will be off, from the expectation
 derived from the Hubble Constant.
 
-As a function of time.
-$\lambda_(t+1) = \lambda_t+(\gamma C / \lambda_t  )$
+
 
 
 
