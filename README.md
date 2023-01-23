@@ -1,8 +1,8 @@
 # EntropyRedShift
-Electromagnetic Wave theory
+ElectroMagnetic Wave theory
 
 
-Entropy Red Shift of Electromagnetic Waves in a Space Vacuum
+Entropy Red Shift of ElectroMagnetic Waves in a Space Vacuum
 			      by
 David Wesley Johnson     12-10-22
 
