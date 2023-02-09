@@ -88,7 +88,7 @@ plasma strikes which round aboutly create new matter!
 ---Gravity---
 
 When Em waves are many millions of light year long and
-as dense as one can inmagine, they become gravity waves.
+as dense as one can imagine, they become gravity waves.
 As very long EM waves pass through everything, except when the
 EM wave is at it's nodal point. In this view only a small part of
 the total available EM waves are ever active as gravitons,
