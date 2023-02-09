@@ -43,13 +43,13 @@ gamma $\gamma$ is the wavelength expansion constant, expressed as length.
 
 One way to test this idea is to note that all derived Z data is
 assumed to have expanded at the same rate.
-But if this gamma idea is true then one might expect noticable 
-inconsistancies in expansion rates at lower frequencies, as in
+But if this gamma idea is true then one might expect noticeable 
+inconsistencies in expansion rates at lower frequencies, as in
 long wave infrared. Why? because most data collected is based on
 much higher frequencies ,Lyman, Balmer, that decay much faster than
 lower frequencies, so if a super low frequency were selected as the
 basis for some measurement, then it will be off, from the expectation
-derived from the Hubble Constant.
+based on Hubble constant.
 
 
 ------Explaining the ‘Big Bang’,‘Dark Matter’, and Gravity----
