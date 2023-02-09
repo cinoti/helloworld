@@ -53,6 +53,47 @@ derived from the Hubble Constant.
 
 
 
+------Explaining the ‘Big Bang’ and ‘Dark Matter’----
+
+The obvious absurdity of the “Big Bang” is the idea of
+an expanding space, to explain ‘red-shifts’ that require
+the distance between things to continually expand.
+Big problem is this means physics constants would
+also have to change, the distance between atoms and
+electrons would change, none of which makes any sense.
+
+My theory explains observable ‘red-shifts’ as function
+of natural frequency decay,as a function of frequency
+itself.
+In a time span of trillions of years, higher frequencies
+slow down and accumulate into dense zones.
+The most prominent is the CMB. The lower frequencies
+get closer together over time, because  lower frequencies
+change slower than higher frequency.
+Eventually, many many trillions of years EM waves become
+millions of light years long.
+
+---“Dark Matter”---
+
+My theory indicates that what is called a space-vacuum is
+actually an innate sea of energy. Equating energy and mass
+leads us to a dark matter explanation of galaxy rotation.
+So the missing mass is really the effect of an energy 
+filled space-vacuum.
+
+Along the way the longer EM waves  create vast magnetic
+fields thousands of light years across that collapse into
+plasma strikes which round aboutly create new matter!
+
+---Gravity---
+
+When Em waves are many millions of light year long and
+as dense as one can inmagine, they become gravity waves.
+As very long EM waves pass through everything, except when the
+EM wave is at it's nodal point. In this view only a small part of
+the total available EM waves are ever active as gravitons,
+but is sufficient to explain our observations of gravity.
+
 
 
 
