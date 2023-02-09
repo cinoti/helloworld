@@ -53,7 +53,7 @@ derived from the Hubble Constant.
 
 
 
-------Explaining the ‘Big Bang’ and ‘Dark Matter’----
+------Explaining the ‘Big Bang’,‘Dark Matter’, and Gravity----
 
 The obvious absurdity of the “Big Bang” is the idea of
 an expanding space, to explain ‘red-shifts’ that require
