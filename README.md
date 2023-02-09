@@ -52,7 +52,6 @@ basis for some measurement, then it will be off, from the expectation
 derived from the Hubble Constant.
 
 
-
 ------Explaining the ‘Big Bang’,‘Dark Matter’, and Gravity----
 
 The obvious absurdity of the “Big Bang” is the idea of
@@ -79,11 +78,21 @@ My theory indicates that what is called a space-vacuum is
 actually an innate sea of energy. Equating energy and mass
 leads us to a dark matter explanation of galaxy rotation.
 So the missing mass is really the effect of an energy 
-filled space-vacuum.
+filled space-vacuum, flowing towards and into "Black Holes'.
+These flows creates the overall motion of the galaxy, from
+the outer bounds towards the large center "Black Hole'.
+Thus the dynamics of BH are determined by the movement
+of the VS. 
+In the case of flat galaxies, the BH redirect SV
+into bubble like bulges on both sides of the galaxy.
+These bulges interact with very long wave EM and 
+creating dense regions of plasma, which eventually
+create new matter, drifting towards the outer bounds
+and are recycled. Then it would be the case that BH
+on average will have rotations similarly aligned 
+in the galactic plane. This can be verified.
 
-Along the way the longer EM waves  create vast magnetic
-fields thousands of light years across that collapse into
-plasma strikes which round aboutly create new matter!
+
 
 ---Gravity---
 
@@ -92,7 +101,7 @@ as dense as one can imagine, they become gravity waves.
 As very long EM waves pass through everything, except when the
 EM wave is at it's nodal point. In this view only a small part of
 the total available EM waves are ever active as gravitons,
-but is sufficient to explain our observations of gravity.
+but is sufficient to explain the effect of gravity.
 
 
 
