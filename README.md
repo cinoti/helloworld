@@ -66,7 +66,7 @@ of natural frequency decay,as a function of frequency
 itself.
 In a time span of trillions of years, higher frequencies
 slow down and accumulate into dense zones.
-Like the the CMB. The lower frequencies
+Like the CMB. The lower frequencies
 get closer together over time, because  lower frequencies
 change slower than higher frequency.
 Eventually, many many trillions of years EM waves become
