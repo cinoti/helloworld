@@ -92,6 +92,15 @@ and are recycled. Then it would be the case that BH
 on average will have rotations similarly aligned 
 in the galactic plane. This can be verified.
 
+--- Cosmic  Filaments ---
+When EM waves are thousands and millions of light years long
+they interact to create magnetic bubbles.
+Filaments result where magnetic bubbles  intersect.
+
+--- Solar Systems --- Black Holes ---
+The center star will be inside a magnetic vortex that
+comes in from the outer extremes and exits perpendicular to the 
+agent in field lines.
 
 
 ---Gravity---
