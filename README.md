@@ -49,7 +49,8 @@ long wave infrared. Why? because most data collected is based on
 much higher frequencies ,Lyman, Balmer, that decay much faster than
 lower frequencies, so if a super low frequency were selected as the
 basis for some measurement, then it will be off, from the expectation
-based on Hubble constant.
+based on Hubble constant. In cases where the Lyman and Balmer  data is
+from the same entity, then the difference in Z will be notable. 
 
 
 ------Explaining the ‘Big Bang’,‘Dark Matter’, and Gravity----
