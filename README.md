@@ -70,8 +70,9 @@ slow down and accumulate into dense zones.
 Like the CMB. The lower frequencies
 get closer together over time, because  lower frequencies
 change slower than higher frequency.
-Eventually, many many trillions of years EM waves become
-millions of light years long.
+Eventually, many trillions of years EM waves become
+trillions of light years long, for those EM waves that do not
+directly interact with matter.
 
 ---“Dark Matter”---
 
